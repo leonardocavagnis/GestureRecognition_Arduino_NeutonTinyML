@@ -21,6 +21,9 @@ Things used in this project
 
 <!-- REPO structure -->
 ## Repo structure
+- `mpu6050_plotter/` -- Basic demo for accelerometer readings from MPU6050
+- `neuton_csvcapture/` -- CSV dataset capture program according to Neuton dataset requirements
+- `neuton_gesturerecognition/` -- A Gesture Recognition system (binary classification) with Neuton TinyML
 
 <!-- CONTACT -->
 ## Contact
