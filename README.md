@@ -1,8 +1,8 @@
-# Gesture Recognition - Arduino NeutonTinyML
+# Gesture Recognition - Arduino Neuton TinyML
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A Gesture Recognition system based on an accelerometer using a Machine Learning algorithm.
+A Gesture Recognition system based on an accelerometer with Arduino and Neuton TinyML
 
 Medium article: 
 
