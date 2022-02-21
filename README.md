@@ -4,7 +4,7 @@
 ## About The Project
 A Gesture Recognition system based on an accelerometer with Arduino and Neuton TinyML
 
-Medium article: 
+Tutorial: https://leonardocavagnis.medium.com/ultra-tinyml-machine-learning-for-8-bit-microcontroller-9ec8f7c8dd12
 
 <!-- SETUP -->
 ## Setup
